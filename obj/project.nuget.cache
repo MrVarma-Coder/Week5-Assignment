@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GY7RSfS7aUUfwg0+1HU0Du45s9061ORyrsKVDgsGQszZ3CIUeWgbZYGBl1IK75p6DNKjl+dOEvrG5NbsR88/IA==",
+  "success": true,
+  "projectFilePath": "E:\\#CTS Coding Practise\\C#\\Assignment5\\Assignment5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sandeep Varma\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
